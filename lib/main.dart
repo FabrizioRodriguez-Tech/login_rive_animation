@@ -1,4 +1,22 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
+import 'package:login_rive_animation/screens/login_screen.dart';
+
+void main() {
+  runApp(const MainApp());
+}
+
+class MainApp extends StatelessWidget {
+  const MainApp({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const MaterialApp(
+      home: LoginScreen()
+    );
+  }
+}
+=======
 
 void main() {
   runApp(const MyApp());
@@ -120,3 +138,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6

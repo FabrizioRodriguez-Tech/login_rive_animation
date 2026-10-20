@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
+    "name": "login_rive_animation",
+    "short_name": "login_rive_animation",
+=======
     "name": "flutter_application_1",
     "short_name": "flutter_application_1",
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

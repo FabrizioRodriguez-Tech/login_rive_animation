@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+name: login_rive_animation
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0+1
+=======
 name: flutter_application_1
 description: "A new Flutter project."
 # The following line prevents the package from being accidentally published to
@@ -17,10 +23,17 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
 version: 1.0.0+1
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
 
 environment:
   sdk: ^3.13.5
 
+<<<<<<< HEAD
+dependencies:
+  flutter:
+    sdk: flutter
+  rive: ^0.13.20
+=======
 # Dependencies specify other packages that your package needs in order to work.
 # To automatically upgrade your package dependencies to the latest versions
 # consider running `flutter pub upgrade --major-versions`. Alternatively,
@@ -34,10 +47,19 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+<<<<<<< HEAD
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+=======
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
@@ -87,3 +109,4 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6

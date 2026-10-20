@@ -15,7 +15,11 @@
                   <BuildableReference
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+                     BuildableName = "login_rive_animation.app"
+=======
                      BuildableName = "flutter_application_1.app"
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
                      BlueprintName = "Runner"
                      ReferencedContainer = "container:Runner.xcodeproj">
                   </BuildableReference>
@@ -33,7 +37,11 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+               BuildableName = "login_rive_animation.app"
+=======
                BuildableName = "flutter_application_1.app"
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -49,7 +57,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "login_rive_animation.app"
+=======
             BuildableName = "flutter_application_1.app"
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -84,7 +96,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "login_rive_animation.app"
+=======
             BuildableName = "flutter_application_1.app"
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -101,7 +117,11 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
+<<<<<<< HEAD
+            BuildableName = "login_rive_animation.app"
+=======
             BuildableName = "flutter_application_1.app"
+>>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
