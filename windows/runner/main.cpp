@@ -27,11 +27,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE instance, _In_opt_ HINSTANCE prev,
   FlutterWindow window(project);
   Win32Window::Point origin(10, 10);
   Win32Window::Size size(1280, 720);
-<<<<<<< HEAD
   if (!window.Create(L"login_rive_animation", origin, size)) {
-=======
-  if (!window.Create(L"flutter_application_1", origin, size)) {
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
     return EXIT_FAILURE;
   }
   window.SetQuitOnClose(true);

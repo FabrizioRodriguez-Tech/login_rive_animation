@@ -3,10 +3,7 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
-<<<<<<< HEAD
   rive_common
-=======
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST

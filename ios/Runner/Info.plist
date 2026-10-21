@@ -7,11 +7,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-<<<<<<< HEAD
 	<string>Login Rive Animation</string>
-=======
-	<string>Flutter Application 1</string>
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -19,11 +15,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-<<<<<<< HEAD
 	<string>login_rive_animation</string>
-=======
-	<string>flutter_application_1</string>
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

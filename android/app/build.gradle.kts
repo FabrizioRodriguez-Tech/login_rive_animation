@@ -5,11 +5,7 @@ plugins {
 }
 
 android {
-<<<<<<< HEAD
     namespace = "com.example.login_rive_animation"
-=======
-    namespace = "com.example.flutter_application_1"
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -20,11 +16,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-<<<<<<< HEAD
         applicationId = "com.example.login_rive_animation"
-=======
-        applicationId = "com.example.flutter_application_1"
->>>>>>> 3f5a15f6d6ffe267af3aa1a027e28eb37342cbc6
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
