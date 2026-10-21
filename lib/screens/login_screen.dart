@@ -15,7 +15,7 @@ class _LoginScreenState extends State<LoginScreen> {
   // 1.1 Máquina estados / Cerebro de la animación
   StateMachineController? _controller;
 
-  // StateMachineInputss
+  // StateMachineInputss ()
   SMIBool? _isChecking;
   SMIBool? _isHandsUp;
   SMITrigger? _trigSuccess;
@@ -189,7 +189,7 @@ class _LoginScreenState extends State<LoginScreen> {
     //2.4 Liberar memoria o recursos en los FocusNode
     _emailFocus.dispose();
     _passwordFocus.dispose();
-    //3.5 Liberar timer
+    //3.5 Liberar
     _typingDebounce?.cancel();
     super.dispose();
   }
